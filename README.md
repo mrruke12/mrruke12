@@ -19,6 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="7%" />
 </div>
 
+<h1>My current projects</h1>
+<p><a href="https://t.me/RepeatAfterMeDevBot">@RepeatAfterMeDevBot</a> - telegram bot for learning words using spaced time repetitions</p>
+</div>
+
  
 <!--
 **mrruke12/mrruke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
