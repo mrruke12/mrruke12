@@ -9,18 +9,15 @@
   <li>My education: an incomplete bachelor's degree in Software Engineering</li>
 </ul>
 <div align="left" style="display: flex;">
-<h1>My tech stack</h1>
+<h1>I'm currently learning</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="7%" style="margin-right: 100px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="7%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="7%" />
+<--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="7%" />-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="7%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="7%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="7%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="7%" />
 </div>
-
-<h1>My current projects</h1>
-<p><a href="https://t.me/RepeatAfterMeDevBot">@RepeatAfterMeDevBot</a> - telegram bot for learning words using spaced time repetitions</p>
 </div>
 
  
