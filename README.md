@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-- Учусь на направлении Software Engineering (обучение не завершено)
+- Учусь на направлении Software Engineering
 - Интересуюсь бэкендом и fullstack-разработкой на .NET и JavaScript
 - Контакты: [mrruke12@gmail.com](mailto:mrruke12@gmail.com) | [Telegram](https://t.me/mrruke12)
 
