@@ -1,17 +1,17 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="center">Hello, I'm Arthur</h1>
-<h3 align="center">Junior Developer learning Software Engineering</h3>
+<h1 align="center">Привет, я Артур</h1>
+<h3 align="center">Начинающий разработчик, изучаю Software Engineering</h3>
 
-## About Me
+## Обо мне
 
-- I study Software Engineering (currently not finished)
-- I like backend development and want to work with .NET + JS for fullstack development
-- You can contact me at: <a href="mailto:mrruke12@gmail.com">mrruke12@gmail.com</a> or using <a href="https://t.me/mrruke12">Telegram</a>
+- Учусь на направлении Software Engineering (обучение не завершено)
+- Интересуюсь бэкендом и fullstack-разработкой на .NET и JavaScript
+- Контакты: [mrruke12@gmail.com](mailto:mrruke12@gmail.com) | [Telegram](https://t.me/mrruke12)
 
-## My Skills
+## Навыки
 
-**Now learning and using:**
+**Изучаю и применяю:**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="50" title=".NET" />
@@ -21,28 +21,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub" />
 </div>
 
-## What I'm Doing
+## Чем занимаюсь
 
-- Practicing by building small projects
-- Learning how to work in a team (Git, GitHub)
-- Improving my coding skills and software design understanding
+- Практикуюсь через создание небольших проектов
+- Учусь работать в команде (Git, GitHub)
+- Развиваю навыки написания кода и проектирования
 
---- 
+## Проекты
 
-Feel free to contact me if you have any questions!
+### 🚀 HK-minigame-solver  
+Автоматизация решения мини-игр Hamster Kombat на C++  
+[Ссылка на репозиторий](https://github.com/mrruke12/HK-minigame-solver)
 
- 
-<!--
-**mrruke12/mrruke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **C++, HTML, JavaScript, CSS**
 
-Here are some ideas to get you started:
+Скрипт получает данные о головоломке из браузера, решает её на C++, затем визуализирует решение в HTML/JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Особенности:**
+- Считывание и визуализация состояния сетки
+- Настройки через `config.ini` (размер поля, шаги, целевая позиция)
+- Работа с локальными файлами и HTML-интерфейсом
+
+---
+
+### 💼 ExpenseManager  
+Веб-приложение для учёта доходов и расходов с Telegram-ботом и импортом выписок Kaspi  
+[Ссылка на репозиторий](https://github.com/mrruke12/ExpenseManager)
+
+> **C#, .NET Core 9.0, EF Core, SQLite, JWT, Vue.js, TailwindCSS**
+
+Fullstack-приложение с REST API, Telegram-ботом и фронтендом на Vue.
+
+**Бэкенд:**
+- Архитектура: Core, Bot, Infrastructure, WebAPI
+- JWT-авторизация, база данных на SQLite, логирование через Serilog
+- Импорт PDF-выписок из Kaspi
+
+**Фронтенд:**
+- Vue.js + TailwindCSS
+- Axios для работы с API, vue-i18n — для локализации, chart.js — для графиков
+
+## Участие в образовательных курсах
+- **Летний и осенний лагеря Edlight 2023 (Астана)**  
+  Изучал и применял алгоритмы и структуры данных:  
+  `DFS`, `BFS`, `Алгоритм Дейкстры`, `Бинарный поиск`, `Дерево отрезков`, `Префиксные суммы`, `Стек`, `Очередь`, `Set`, `Графы`, `Словари`
+
+- Есть опыт участия в олимпиадах по информатике  
+  (призовые места на областном уровне)
