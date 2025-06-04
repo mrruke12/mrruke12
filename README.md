@@ -1,8 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="center">Привет, я Артур</h1>
-<h3 align="center">Начинающий разработчик, изучаю Software Engineering</h3>
-
 ## Обо мне
 
 - Учусь на направлении Software Engineering (обучение не завершено)
