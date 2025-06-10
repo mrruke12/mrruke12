@@ -33,6 +33,8 @@
 - Получить опыт работы с контейниризацией Docker и последующего деплоя
 - Получить опыт работы с PostgreSQL
 
+---
+
 ### [ExpenseManager](https://github.com/mrruke12/ExpenseManager)
 > Fullstack-система для учёта финансов с поддержкой Telegram-бота и импорта выписок из Kaspi
 
